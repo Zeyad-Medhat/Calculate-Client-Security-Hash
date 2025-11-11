@@ -1,0 +1,13 @@
+﻿{
+  "Name": "New application",
+  "Type": "Screen",
+  "Id": "hCCs2_plHEKA_qUN-T9grA",
+  "Reference": "hLDC2GN9SkOYIhN6yuA9hw/hCCs2_plHEKA_qUN-T9grA",
+  "ParentRef": "hLDC2GN9SkOYIhN6yuA9hw/3RwdFKcwCkyuQpIxkMhhvw",
+  "Created": "2025-10-25T15:37:08.8961453Z",
+  "Updated": "2025-10-25T15:37:08.8961453Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

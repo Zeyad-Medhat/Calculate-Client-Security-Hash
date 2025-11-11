@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="RGrvdxVU30SkrH1xGZC8eg" Reference="aKJeo_mShESd5xS70BIVXw/1HKhE--VoUyyL-AadMKaTA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cloud.uipath.com/zeyadciyhlao/DefaultTenant/orchestrator_/queues" CVScreenId="40ae7b62-b998-44be-a919-1aa5004703e8" DesignTimeRectangle="145, 400, 1078, 54" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='newComment' tag='TEXTAREA' /&gt;" Guid="a0fb3e44-2cfd-4e9c-b7e1-3ef55323d1a8" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='WI-Update' title='ACME System 1' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="40ae7b62-b998-44be-a919-1aa5004703e8" DesignTimeRectangle="145, 375, 108, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='' aaname='Add Comments:' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Add Comments:' /&gt;" Guid="f55cf761-0fd0-4249-b5ee-c376fd0d6f94" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="20f67c0c06cb7c5c9f3da434033c2f77.png" xmlns="">0VGF3v_ffc0mhqZ3Px7fzUQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

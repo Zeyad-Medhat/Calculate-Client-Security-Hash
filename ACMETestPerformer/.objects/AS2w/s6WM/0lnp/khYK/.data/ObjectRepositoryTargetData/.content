@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="WBbaJaZQLUK9PJdnzAW_uA" Reference="aKJeo_mShESd5xS70BIVXw/khYK9nQSo0i4B07svUZSrA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cloud.uipath.com/zeyadciyhlao/DefaultTenant/orchestrator_/queues" CVScreenId="40ae7b62-b998-44be-a919-1aa5004703e8" DesignTimeRectangle="145, 543, 156, 34" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='buttonUpdate' tag='BUTTON' aaname=' Update Work Item' /&gt;" Guid="06a011e8-35a1-4f36-931b-652eaef3bc46" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='WI-Update' title='ACME System 1' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="820274e1dd63afe08ec7956678e372f8.png" xmlns="">0J4Ocfl-wcU2o_cXLMpuJ7Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

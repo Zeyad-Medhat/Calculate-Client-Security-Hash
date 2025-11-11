@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="P6k9q6w_zkeAPIZDTatC_g" Reference="aKJeo_mShESd5xS70BIVXw/pNMdpTtDa0e04QYXGRFJpQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items/107896920" CVScreenId="7f73706a-2f10-4e12-9982-3a38dd1e2f13" CvElementArea="150, 441, 223, 36" CvType="InputBox" DesignTimeRectangle="152, 442, 220, 34" ElementType="Button" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='button' class='btn dropdown-toggle bs-placeholder btn-default' aaname='---' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='---' /&gt;" Guid="2ac62a2f-2953-40fc-9387-b01c9c0703c6" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='WI-Update' title='ACME System 1' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="7f73706a-2f10-4e12-9982-3a38dd1e2f13" DesignTimeRectangle="152, 417, 80, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='New Status:' tag='LABEL' type='' class='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='New Status:' /&gt;" Guid="c7d72514-3172-4bce-b94f-b572676e05af" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="2d5d8f4051ed1dcb95d3d326f243f0be.png" xmlns="">0Olyn4HL2UUq4s-h0z3VgWg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

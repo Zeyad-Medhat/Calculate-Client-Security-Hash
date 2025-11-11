@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="BdWpX8UabUakCe32sPrggA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sha1-online.com" CVScreenId="0d71bbc6-bccf-423e-bdef-90dd8e4b403b" DesignTimeRectangle="536, 355, 479, 22" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='result-sha1' tag='SPAN' /&gt;" Guid="1ff33695-7323-46da-b0dd-05c1806d4a0a" ScopeSelectorArgument="&lt;html app='chrome.exe' title='SHA1 online' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="0d71bbc6-bccf-423e-bdef-90dd8e4b403b" DesignTimeRectangle="354, 355, 675, 22" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' tag='P' class='' aaname='Result for sha1:  ' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="05e96d8c-d24b-4b48-911b-0199c8d0784a" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="0fd594d552c8aa6ec0b2b7eb646f13e9.png" xmlns="">022ooUDcepUWdyRivAOD1UA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

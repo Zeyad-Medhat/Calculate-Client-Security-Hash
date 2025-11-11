@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="3mUNWmb-J06dz2Z5I4QEIA" Reference="aKJeo_mShESd5xS70BIVXw/IF-5GBMg_0adyk8iifxiEw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-8, -8, 1382, 744" BrowserType="Chrome" ContentHash="PSvXoGEsAUez9QSAb3wMIA" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABmSURBVDhPrczRDYAgDIRhH5nAFdx/B1zGJTBHcqY2FNrqw5ejCfm369wblaOG9QAevwWwJD9ahgG5K8sAlnBrroBcLRzAEu5UQO6nAKQDFAoQbnIHLNMA8fOIGfB6BUh/mnkCObXdA5Q5fU2oWVYAAAAASUVORK5CYII=" Reference="aKJeo_mShESd5xS70BIVXw/IF-5GBMg_0adyk8iifxiEw" Selector="&lt;html app='chrome.exe' title='SHA1 online' /&gt;" Url="[in_Config(&quot;Encryption_URL&quot;).ToString]" Version="V2">
+      <imageRef attrName="InformativeScreenshot" originalValue="6c7ab2108318009ac558161c8a4e6b77.jpg" xmlns="">0yrnRb608k0-xWcT7H1S1WQ</imageRef>
+    </TargetApp>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1" />
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>
